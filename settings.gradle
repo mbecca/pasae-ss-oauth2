@@ -1,0 +1,3 @@
+rootProject.name = 'pasae-ss-ouath2'
+include 'pasae-ss-ouath2-backend', 'pasae-ss-ouath2-backend-ui'
+
